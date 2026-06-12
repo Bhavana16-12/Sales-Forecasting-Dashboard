@@ -1,3 +1,4 @@
+#FUTURE_ML_01/
 # Sales Forecasting Dashboard
 
 ## Dashboard Preview
@@ -221,4 +222,5 @@ This project demonstrates the practical application of Machine Learning in sales
 Bhavana
 
 GitHub:
-https://github.com/Bhavana16-12/Sales-Forecasting-Dashboard
+GitHub: https://github.com/Bhavana16-12/FUTURE_ML_01
+
